@@ -95,14 +95,18 @@ done
 This project is released under the MIT License.
 ---
 
-## 📚 Sources of Code & Script
+📚 Sources of Code & Script
+I developed the website myself using online resources and tools for guidance.
+Some parts of the code (HTML, CSS, JavaScript, and Linux Bash scripting) were assisted by:
 
-Parts of the HTML, CSS, JavaScript, and Linux Bash scripting were generated and refined using ChatGPT by OpenAI – [https://chat.openai.com/](https://chat.openai.com/)
+ChatGPT by OpenAI – used for generating ideas and improving code structure
 
-Referenced examples and documentation from Mozilla Developer Network (MDN Web Docs) – [https://developer.mozilla.org/](https://developer.mozilla.org/)
+MDN Web Docs – for learning and checking HTML, CSS, and JavaScript standards
 
-Bash scripting syntax and Linux command usage were verified using Ubuntu Manpages – [https://manpages.ubuntu.com/](https://manpages.ubuntu.com/)
+Ubuntu Manpages – to verify Linux command usage and script syntax
 
-Hosting and web server setup were guided by Apache HTTP Server Documentation – [https://httpd.apache.org/docs/](https://httpd.apache.org/docs/)
+Apache HTTP Server Documentation – for setting up and configuring the web server
 
-SSL/TLS configuration used instructions from Let’s Encrypt / Certbot – [https://certbot.eff.org/](https://certbot.eff.org/)
+Certbot (Let’s Encrypt) – for installing and configuring SSL/TLS on the server
+
+All code was written, tested, and integrated by me as part of the ICT171 project at Murdoch University.
