@@ -60,5 +60,5 @@ Stop the script at any time with:
 Ctrl + C
 
 
- Reference (APA Style)
+ Reference 
 DigitalOcean. (2023). How to Write a Bash Script on Linux. https://www.digitalocean.com/community/tutorials/how-to-write-bash-scripts-on-ubuntu

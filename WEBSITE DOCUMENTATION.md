@@ -15,8 +15,8 @@ It includes a digital clock, Linux Bash script, and secure HTTPS connection. A c
 
 ---
 
-## ⚙️ **Technologies Used
-**
+## ⚙️ Technologies Used
+
 
 - HTML, CSS, JavaScript – Website design and clock  
 - Apache – Web server  
@@ -47,7 +47,7 @@ It includes a digital clock, Linux Bash script, and secure HTTPS connection. A c
 
 ---
 
-### ✅ 1. **Create an AWS Account**
+### ✅ 1. Create an AWS Account**
 - Go to [https://aws.amazon.com](https://aws.amazon.com) and create a free account.
 - Verify with email, phone, and payment details.
 
@@ -78,23 +78,6 @@ It includes a digital clock, Linux Bash script, and secure HTTPS connection. A c
 6. DNS settings connect the domain `ictstudies.com` to the EC2 instance.
 
 ---
-
-## 🕒 **Linux Script
-**
-
-```bash
-#!/bin/bash
-while true
-do
-  clear
-  echo "🕒 Current Time:"
-  date +"%T"
-  sleep 1
-done
-
-Purpose: This Bash script shows the current system time every second in the terminal.
-It runs in an infinite loop and clears the screen on each update.
-
 
 🔐 **SSL/TLS Setup
 **
@@ -133,6 +116,35 @@ Include downloadable resume
 Add form submission with email
 
 Improve theme and design
+
+
+## 🕒 **Linux Script
+**
+
+```bash
+#!/bin/bash
+while true
+do
+  clear
+  echo "🕒 Current Time:"
+  date +"%T"
+  sleep 1
+done
+
+Purpose: This Bash script shows the current system time every second in the terminal.
+It runs in an infinite loop and clears the screen on each update.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 📚 **References:
