@@ -117,7 +117,6 @@ Add form submission with email
 
 Improve theme and design
 
-
 ## 🕒 **Linux Script
 **
 
@@ -133,16 +132,6 @@ done
 
 Purpose: This Bash script shows the current system time every second in the terminal.
 It runs in an infinite loop and clears the screen on each update.
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -165,3 +154,19 @@ Namecheap. (2024). How to Point a Domain to a Server. https://www.namecheap.com/
 
 
 
+
+## 🕒 **Linux Script
+**
+
+```bash
+#!/bin/bash
+while true
+do
+  clear
+  echo "🕒 Current Time:"
+  date +"%T"
+  sleep 1
+done
+
+Purpose: This Bash script shows the current system time every second in the terminal.
+It runs in an infinite loop and clears the screen on each update.
